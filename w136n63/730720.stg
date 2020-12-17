@@ -1,0 +1,5 @@
+OBJECT_BASE 730720.btg
+OBJECT CYMA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -135.883875 63.616766 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -135.852793 63.616009 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -135.868345 63.617349 -9999.0 0.00

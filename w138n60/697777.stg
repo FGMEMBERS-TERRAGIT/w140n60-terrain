@@ -1,0 +1,5 @@
+OBJECT_BASE 697777.btg
+OBJECT CYHT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -137.558088 60.786519 644.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -137.531961 60.791494 643.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -137.541946 60.789275 643.3 0.00
